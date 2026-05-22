@@ -389,7 +389,7 @@ Alternative fstab line (common host-side convention, **not** the command execute
 LABEL=LFSROOT /mnt/lfs ext4 defaults 0 2
 ```
 
-That tells `fsck` to check it after the root filesystem. Your current entry is still valid and follows the style shown in the LFS book example, but `0 2` is often the cleaner host-side convention for a non-root LFS build partition.
+That tells `fsck` to check it after the root filesystem. The executed command in this phase uses `0 1`, which is still valid and follows the style shown in the LFS book example, but `0 2` is often the cleaner host-side convention for a non-root LFS build partition.
 
 ### Useful alternatives
 
