@@ -62,6 +62,10 @@ trap 'rm -f "$compiler_test_binary"' EXIT
 printf 'int main(){return 0;}\n' | g++ -x c++ - -o "$compiler_test_binary" >/dev/null 2>&1 \
   && echo "[OK]   g++ compile works" \
   || { echo "[FAIL] g++ compile failed"; fail=1; }
+printf 'int main(){return 0;}\n' | g++ -x c++ - -o /tmp/lfs-compiler-check >/dev/null 2>&1 \
+  && echo "[OK]   g++ compile works" \
+  || { echo "[FAIL] g++ compile failed"; fail=1; }
+rm -f /tmp/lfs-compiler-check
 
 echo
 echo "== CPU cores =="
