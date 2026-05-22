@@ -233,7 +233,7 @@ Recorded result summary:
 
 - all required base commands reported `[OK]`
 - kernel: `6.8.0-110-generic`
-- shell/link sanity: `/bin/sh -> /usr/bin/dash`, `awk -> /usr/bin/gawk`, `yacc -> /usr/bin/bison.yacc`
+- shell/link sanity: `/bin/sh -> /usr/bin/dash`, `/usr/bin/awk -> /usr/bin/gawk`, `/usr/bin/yacc -> /usr/bin/bison.yacc`
 - PTY support check passed
 - compiler sanity (`g++` test compile) passed
 - CPU cores: `4`
