@@ -383,7 +383,7 @@ Meaning:
 
 ### Note on the last field
 
-Alternative (common host-side convention) for a non-root ext4 data filesystem:
+Alternative fstab line (common host-side convention, **not** the command executed above) for a non-root ext4 data filesystem:
 
 ```fstab
 LABEL=LFSROOT /mnt/lfs ext4 defaults 0 2
@@ -521,10 +521,10 @@ It shows:
 
 ## References
 
-- Linux From Scratch 13.0-systemd
-- Beyond Linux From Scratch 13.0-systemd
-- official LFS host requirements
-- official partitioning, filesystem, and mounting guidance
+- Linux From Scratch 13.0-systemd: https://linuxfromscratch.org/lfs/view/stable-systemd/
+- Beyond Linux From Scratch 13.0-systemd: https://linuxfromscratch.org/blfs/view/stable-systemd/
+- LFS host system requirements: https://linuxfromscratch.org/lfs/view/stable-systemd/chapter02/hostreqs.html
+- LFS partitioning, filesystem, and mounting guidance: https://linuxfromscratch.org/lfs/view/stable-systemd/chapter02/creatingpartition.html
 
 ---
 
