@@ -1,0 +1,1288 @@
+--2026-05-22 20:29:02--  https://download.savannah.gnu.org/releases/acl/acl-2.3.2.tar.xz
+Resolving download.savannah.gnu.org (download.savannah.gnu.org)... 2001:470:142:5::200, 209.51.188.200
+Connecting to download.savannah.gnu.org (download.savannah.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.rabisu.com/mirrors/savannah/acl/acl-2.3.2.tar.xz [following]
+--2026-05-22 20:29:03--  https://mirror.rabisu.com/mirrors/savannah/acl/acl-2.3.2.tar.xz
+Resolving mirror.rabisu.com (mirror.rabisu.com)... 162.55.247.53
+Connecting to mirror.rabisu.com (mirror.rabisu.com)|162.55.247.53|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:04--  https://download.savannah.gnu.org/releases/attr/attr-2.5.2.tar.gz
+Connecting to download.savannah.gnu.org (download.savannah.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/nongnu/attr/attr-2.5.2.tar.gz [following]
+--2026-05-22 20:29:04--  https://mirrors.ocf.berkeley.edu/nongnu/attr/attr-2.5.2.tar.gz
+Resolving mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)... 2607:f140:0:32::70, 169.229.200.70
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:04--  https://ftpmirror.gnu.org/autoconf/autoconf-2.72.tar.xz
+Resolving ftpmirror.gnu.org (ftpmirror.gnu.org)... 2001:470:142:5::200, 209.51.188.200
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://gnu.mirror.constant.com/autoconf/autoconf-2.72.tar.xz [following]
+--2026-05-22 20:29:05--  https://gnu.mirror.constant.com/autoconf/autoconf-2.72.tar.xz
+Resolving gnu.mirror.constant.com (gnu.mirror.constant.com)... 2001:19f0:1595:1403::1096, 108.61.5.83
+Connecting to gnu.mirror.constant.com (gnu.mirror.constant.com)|2001:19f0:1595:1403::1096|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:05--  https://ftpmirror.gnu.org/automake/automake-1.18.1.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.cs.odu.edu/gnu/automake/automake-1.18.1.tar.xz [following]
+--2026-05-22 20:29:06--  https://mirror.cs.odu.edu/gnu/automake/automake-1.18.1.tar.xz
+Resolving mirror.cs.odu.edu (mirror.cs.odu.edu)... 128.82.4.140
+Connecting to mirror.cs.odu.edu (mirror.cs.odu.edu)|128.82.4.140|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:06--  https://ftpmirror.gnu.org/bash/bash-5.3.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/gnu/bash/bash-5.3.tar.gz [following]
+--2026-05-22 20:29:07--  https://mirrors.ocf.berkeley.edu/gnu/bash/bash-5.3.tar.gz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:07--  https://github.com/gavinhoward/bc/releases/download/7.0.3/bc-7.0.3.tar.xz
+Resolving github.com (github.com)... 140.82.116.4
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/146616613/381a6f4b-d33c-4bf2-ace0-cdad4b590d2b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A47Z&rscd=attachment%3B+filename%3Dbc-7.0.3.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A06%3A54Z&ske=2026-05-22T21%3A07%3A47Z&sks=b&skv=2018-11-09&sig=%2B4aWo3LIu6uqMAb%2B5wNIO8ut4FS47ZGQ1coArhwCc1U%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA0NywibmJmIjoxNzc5NDgxNzQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.hAWA7egCKD-d_kjg7vDF9pwhKCZv-h8Q-Ev-v2Xj3Ds&response-content-disposition=attachment%3B%20filename%3Dbc-7.0.3.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:29:07--  https://release-assets.githubusercontent.com/github-production-release-asset/146616613/381a6f4b-d33c-4bf2-ace0-cdad4b590d2b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A47Z&rscd=attachment%3B+filename%3Dbc-7.0.3.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A06%3A54Z&ske=2026-05-22T21%3A07%3A47Z&sks=b&skv=2018-11-09&sig=%2B4aWo3LIu6uqMAb%2B5wNIO8ut4FS47ZGQ1coArhwCc1U%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA0NywibmJmIjoxNzc5NDgxNzQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.hAWA7egCKD-d_kjg7vDF9pwhKCZv-h8Q-Ev-v2Xj3Ds&response-content-disposition=attachment%3B%20filename%3Dbc-7.0.3.tar.xz&response-content-type=application%2Foctet-stream
+Resolving release-assets.githubusercontent.com (release-assets.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:07--  https://sourceware.org/pub/binutils/releases/binutils-2.46.0.tar.xz
+Resolving sourceware.org (sourceware.org)... 2620:52:6:3111::32, 38.145.34.32
+Connecting to sourceware.org (sourceware.org)|2620:52:6:3111::32|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:08--  https://ftpmirror.gnu.org/bison/bison-3.8.2.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/gnu/bison/bison-3.8.2.tar.xz [following]
+--2026-05-22 20:29:08--  https://mirrors.ocf.berkeley.edu/gnu/bison/bison-3.8.2.tar.xz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:08--  https://www.sourceware.org/pub/bzip2/bzip2-1.0.8.tar.gz
+Resolving www.sourceware.org (www.sourceware.org)... 2620:52:6:3111::32, 38.145.34.32
+Connecting to www.sourceware.org (www.sourceware.org)|2620:52:6:3111::32|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:09--  https://ftpmirror.gnu.org/coreutils/coreutils-9.10.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.team-cymru.com/gnu/coreutils/coreutils-9.10.tar.xz [following]
+--2026-05-22 20:29:10--  https://mirror.team-cymru.com/gnu/coreutils/coreutils-9.10.tar.xz
+Resolving mirror.team-cymru.com (mirror.team-cymru.com)... 2604:8800:50:80:216:31:2:234, 216.31.2.234
+Connecting to mirror.team-cymru.com (mirror.team-cymru.com)|2604:8800:50:80:216:31:2:234|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:10--  https://dbus.freedesktop.org/releases/dbus/dbus-1.16.2.tar.xz
+Resolving dbus.freedesktop.org (dbus.freedesktop.org)... 131.252.210.176
+Connecting to dbus.freedesktop.org (dbus.freedesktop.org)|131.252.210.176|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:10--  https://ftpmirror.gnu.org/dejagnu/dejagnu-1.6.3.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/gnu/dejagnu/dejagnu-1.6.3.tar.gz [following]
+--2026-05-22 20:29:12--  https://mirrors.ocf.berkeley.edu/gnu/dejagnu/dejagnu-1.6.3.tar.gz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:12--  https://ftpmirror.gnu.org/diffutils/diffutils-3.12.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://gnu.mirror.constant.com/diffutils/diffutils-3.12.tar.xz [following]
+--2026-05-22 20:29:13--  https://gnu.mirror.constant.com/diffutils/diffutils-3.12.tar.xz
+Connecting to gnu.mirror.constant.com (gnu.mirror.constant.com)|2001:19f0:1595:1403::1096|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:14--  https://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz
+Resolving downloads.sourceforge.net (downloads.sourceforge.net)... 2606:4700::6812:d95, 2606:4700::6812:c95, 104.18.12.149, ...
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pilotfiber.dl.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz?viasf=1&fid=8e0f2d4a72e3c880 [following]
+--2026-05-22 20:29:14--  https://pilotfiber.dl.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz?viasf=1&fid=8e0f2d4a72e3c880
+Resolving pilotfiber.dl.sourceforge.net (pilotfiber.dl.sourceforge.net)... 216.158.133.250
+Connecting to pilotfiber.dl.sourceforge.net (pilotfiber.dl.sourceforge.net)|216.158.133.250|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:14--  https://sourceware.org/ftp/elfutils/0.194/elfutils-0.194.tar.bz2
+Connecting to sourceware.org (sourceware.org)|2620:52:6:3111::32|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:15--  https://github.com/libexpat/libexpat/releases/download/R_2_7_4/expat-2.7.4.tar.xz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/80314213/402c9fdc-03a8-470b-a300-d4065bd2aa41?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A42Z&rscd=attachment%3B+filename%3Dexpat-2.7.4.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A41Z&ske=2026-05-22T21%3A07%3A42Z&sks=b&skv=2018-11-09&sig=nbTH7OE81ZUJvYdPzIkJys1dwZ5JRJuAezzZVu7v48k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA1NSwibmJmIjoxNzc5NDgxNzU1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ap-ROmIYZs5z9QsLYN03oXQkH4QA8ZIB5R5vPexcDb0&response-content-disposition=attachment%3B%20filename%3Dexpat-2.7.4.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:29:15--  https://release-assets.githubusercontent.com/github-production-release-asset/80314213/402c9fdc-03a8-470b-a300-d4065bd2aa41?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A42Z&rscd=attachment%3B+filename%3Dexpat-2.7.4.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A41Z&ske=2026-05-22T21%3A07%3A42Z&sks=b&skv=2018-11-09&sig=nbTH7OE81ZUJvYdPzIkJys1dwZ5JRJuAezzZVu7v48k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA1NSwibmJmIjoxNzc5NDgxNzU1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ap-ROmIYZs5z9QsLYN03oXQkH4QA8ZIB5R5vPexcDb0&response-content-disposition=attachment%3B%20filename%3Dexpat-2.7.4.tar.xz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:15--  https://prdownloads.sourceforge.net/expect/expect5.45.4.tar.gz
+Resolving prdownloads.sourceforge.net (prdownloads.sourceforge.net)... 2606:4700::6812:d95, 2606:4700::6812:c95, 104.18.12.149, ...
+Connecting to prdownloads.sourceforge.net (prdownloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://downloads.sourceforge.net/project/expect/Expect/5.45.4/expect5.45.4.tar.gz [following]
+--2026-05-22 20:29:15--  https://downloads.sourceforge.net/project/expect/Expect/5.45.4/expect5.45.4.tar.gz
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cytranet-dal.dl.sourceforge.net/project/expect/Expect/5.45.4/expect5.45.4.tar.gz?viasf=1&fid=dc54e74a7cc4cf5f [following]
+--2026-05-22 20:29:15--  https://cytranet-dal.dl.sourceforge.net/project/expect/Expect/5.45.4/expect5.45.4.tar.gz?viasf=1&fid=dc54e74a7cc4cf5f
+Resolving cytranet-dal.dl.sourceforge.net (cytranet-dal.dl.sourceforge.net)... 162.226.127.129
+Connecting to cytranet-dal.dl.sourceforge.net (cytranet-dal.dl.sourceforge.net)|162.226.127.129|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:17--  https://astron.com/pub/file/file-5.46.tar.gz
+Resolving astron.com (astron.com)... 2620:106:3003:1f00:9e8e:99ff:fe15:cae4, 38.117.134.17
+Connecting to astron.com (astron.com)|2620:106:3003:1f00:9e8e:99ff:fe15:cae4|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:17--  https://ftpmirror.gnu.org/findutils/findutils-4.10.0.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://gnu.mirror.constant.com/findutils/findutils-4.10.0.tar.xz [following]
+--2026-05-22 20:29:19--  https://gnu.mirror.constant.com/findutils/findutils-4.10.0.tar.xz
+Connecting to gnu.mirror.constant.com (gnu.mirror.constant.com)|2001:19f0:1595:1403::1096|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:19--  https://github.com/westes/flex/releases/download/v2.6.4/flex-2.6.4.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/14521001/23794388-327c-11e7-8219-c41432b94acf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A26Z&rscd=attachment%3B+filename%3Dflex-2.6.4.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A32Z&ske=2026-05-22T21%3A05%3A26Z&sks=b&skv=2018-11-09&sig=5azA9%2FQrgvgX8CCgUAZe%2BdFzOtlpUWEXuT09UrVCwFk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA0OCwibmJmIjoxNzc5NDgxNzQ4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.pueXSU8VMqiqEaREEpaqSxCQD98ebXiXRy_WldnTfi0&response-content-disposition=attachment%3B%20filename%3Dflex-2.6.4.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:29:19--  https://release-assets.githubusercontent.com/github-production-release-asset/14521001/23794388-327c-11e7-8219-c41432b94acf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A26Z&rscd=attachment%3B+filename%3Dflex-2.6.4.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A32Z&ske=2026-05-22T21%3A05%3A26Z&sks=b&skv=2018-11-09&sig=5azA9%2FQrgvgX8CCgUAZe%2BdFzOtlpUWEXuT09UrVCwFk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjA0OCwibmJmIjoxNzc5NDgxNzQ4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.pueXSU8VMqiqEaREEpaqSxCQD98ebXiXRy_WldnTfi0&response-content-disposition=attachment%3B%20filename%3Dflex-2.6.4.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:20--  https://pypi.org/packages/source/f/flit-core/flit_core-3.12.0.tar.gz
+Resolving pypi.org (pypi.org)... 2a04:4e42:600::223, 2a04:4e42::223, 2a04:4e42:200::223, ...
+Connecting to pypi.org (pypi.org)|2a04:4e42:600::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://files.pythonhosted.org/packages/source/f/flit-core/flit_core-3.12.0.tar.gz [following]
+--2026-05-22 20:29:20--  https://files.pythonhosted.org/packages/source/f/flit-core/flit_core-3.12.0.tar.gz
+Resolving files.pythonhosted.org (files.pythonhosted.org)... 2a04:4e42:f000::223, 167.82.16.223
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/69/59/b6fc2188dfc7ea4f936cd12b49d707f66a1cb7a1d2c16172963534db741b/flit_core-3.12.0.tar.gz [following]
+--2026-05-22 20:29:20--  https://files.pythonhosted.org/packages/69/59/b6fc2188dfc7ea4f936cd12b49d707f66a1cb7a1d2c16172963534db741b/flit_core-3.12.0.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:20--  https://ftpmirror.gnu.org/gawk/gawk-5.3.2.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/gawk/gawk-5.3.2.tar.xz [following]
+--2026-05-22 20:29:20--  https://mirrors.ibiblio.org/gnu/gawk/gawk-5.3.2.tar.xz
+Resolving mirrors.ibiblio.org (mirrors.ibiblio.org)... 152.19.134.44
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:21--  https://ftpmirror.gnu.org/gcc/gcc-15.2.0/gcc-15.2.0.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://ftp.wayne.edu/gnu/gcc/gcc-15.2.0/gcc-15.2.0.tar.xz [following]
+--2026-05-22 20:29:21--  https://ftp.wayne.edu/gnu/gcc/gcc-15.2.0/gcc-15.2.0.tar.xz
+Resolving ftp.wayne.edu (ftp.wayne.edu)... 141.217.0.199
+Connecting to ftp.wayne.edu (ftp.wayne.edu)|141.217.0.199|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:22--  https://ftpmirror.gnu.org/gdbm/gdbm-1.26.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/gdbm/gdbm-1.26.tar.gz [following]
+--2026-05-22 20:29:22--  https://mirrors.ibiblio.org/gnu/gdbm/gdbm-1.26.tar.gz
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:29:23--  https://ftpmirror.gnu.org/gettext/gettext-1.0.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.us-midwest-1.nexcess.net/gnu/gettext/gettext-1.0.tar.xz [following]
+--2026-05-22 20:29:23--  https://mirror.us-midwest-1.nexcess.net/gnu/gettext/gettext-1.0.tar.xz
+Resolving mirror.us-midwest-1.nexcess.net (mirror.us-midwest-1.nexcess.net)... 2607:fad0:3606::1:1361:3303, 207.246.255.164, 173.249.147.237, ...
+Connecting to mirror.us-midwest-1.nexcess.net (mirror.us-midwest-1.nexcess.net)|2607:fad0:3606::1:1361:3303|:443... failed: Connection timed out.
+Connecting to mirror.us-midwest-1.nexcess.net (mirror.us-midwest-1.nexcess.net)|207.246.255.164|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:40--  https://ftpmirror.gnu.org/glibc/glibc-2.43.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.us-midwest-1.nexcess.net/gnu/glibc/glibc-2.43.tar.xz [following]
+--2026-05-22 20:31:41--  https://mirror.us-midwest-1.nexcess.net/gnu/glibc/glibc-2.43.tar.xz
+Connecting to mirror.us-midwest-1.nexcess.net (mirror.us-midwest-1.nexcess.net)|207.246.255.164|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:41--  https://ftpmirror.gnu.org/gmp/gmp-6.3.0.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.team-cymru.com/gnu/gmp/gmp-6.3.0.tar.xz [following]
+--2026-05-22 20:31:42--  https://mirror.team-cymru.com/gnu/gmp/gmp-6.3.0.tar.xz
+Connecting to mirror.team-cymru.com (mirror.team-cymru.com)|2604:8800:50:80:216:31:2:234|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:42--  https://ftpmirror.gnu.org/gperf/gperf-3.3.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://gnu.mirror.constant.com/gperf/gperf-3.3.tar.gz [following]
+--2026-05-22 20:31:43--  https://gnu.mirror.constant.com/gperf/gperf-3.3.tar.gz
+Connecting to gnu.mirror.constant.com (gnu.mirror.constant.com)|2001:19f0:1595:1403::1096|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:43--  https://ftpmirror.gnu.org/grep/grep-3.12.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/grep/grep-3.12.tar.xz [following]
+--2026-05-22 20:31:44--  https://mirrors.ibiblio.org/gnu/grep/grep-3.12.tar.xz
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:44--  https://ftpmirror.gnu.org/groff/groff-1.23.0.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.techrich.hk/gnu/groff/groff-1.23.0.tar.gz [following]
+--2026-05-22 20:31:45--  https://mirror.techrich.hk/gnu/groff/groff-1.23.0.tar.gz
+Resolving mirror.techrich.hk (mirror.techrich.hk)... 96.44.148.105, 67.215.246.122, 66.225.231.14
+Connecting to mirror.techrich.hk (mirror.techrich.hk)|96.44.148.105|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:45--  https://ftpmirror.gnu.org/grub/grub-2.14.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.cs.odu.edu/gnu/grub/grub-2.14.tar.xz [following]
+--2026-05-22 20:31:45--  https://mirror.cs.odu.edu/gnu/grub/grub-2.14.tar.xz
+Connecting to mirror.cs.odu.edu (mirror.cs.odu.edu)|128.82.4.140|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:46--  https://ftpmirror.gnu.org/gzip/gzip-1.14.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.team-cymru.com/gnu/gzip/gzip-1.14.tar.xz [following]
+--2026-05-22 20:31:46--  https://mirror.team-cymru.com/gnu/gzip/gzip-1.14.tar.xz
+Connecting to mirror.team-cymru.com (mirror.team-cymru.com)|2604:8800:50:80:216:31:2:234|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:47--  https://github.com/Mic92/iana-etc/releases/download/20260202/iana-etc-20260202.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/84966990/cf12eec2-7159-4681-abf2-55bcac98dbeb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A37Z&rscd=attachment%3B+filename%3Diana-etc-20260202.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A49Z&ske=2026-05-22T21%3A05%3A37Z&sks=b&skv=2018-11-09&sig=QEDFfPN93XcLRaA%2BK%2FGcpU%2B1qJs8%2F9qwxg4DyrizQFQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIwNywibmJmIjoxNzc5NDgxOTA3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-5ylagzdDNYO9Ix8nJsxaTNlVMjWWz4WaJOUa9Wv84g&response-content-disposition=attachment%3B%20filename%3Diana-etc-20260202.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:31:47--  https://release-assets.githubusercontent.com/github-production-release-asset/84966990/cf12eec2-7159-4681-abf2-55bcac98dbeb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A37Z&rscd=attachment%3B+filename%3Diana-etc-20260202.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A49Z&ske=2026-05-22T21%3A05%3A37Z&sks=b&skv=2018-11-09&sig=QEDFfPN93XcLRaA%2BK%2FGcpU%2B1qJs8%2F9qwxg4DyrizQFQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIwNywibmJmIjoxNzc5NDgxOTA3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-5ylagzdDNYO9Ix8nJsxaTNlVMjWWz4WaJOUa9Wv84g&response-content-disposition=attachment%3B%20filename%3Diana-etc-20260202.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:47--  https://ftpmirror.gnu.org/inetutils/inetutils-2.7.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/gnu/inetutils/inetutils-2.7.tar.gz [following]
+--2026-05-22 20:31:48--  https://mirrors.ocf.berkeley.edu/gnu/inetutils/inetutils-2.7.tar.gz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:48--  https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz
+Resolving launchpad.net (launchpad.net)... 185.125.189.222, 185.125.189.223
+Connecting to launchpad.net (launchpad.net)|185.125.189.222|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://launchpadlibrarian.net/199705878/intltool-0.51.0.tar.gz [following]
+--2026-05-22 20:31:48--  https://launchpadlibrarian.net/199705878/intltool-0.51.0.tar.gz
+Resolving launchpadlibrarian.net (launchpadlibrarian.net)... 2620:2d:4000:1009::3b8, 2620:2d:4000:1009::13e, 185.125.189.228, ...
+Connecting to launchpadlibrarian.net (launchpadlibrarian.net)|2620:2d:4000:1009::3b8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.18.0.tar.xz
+Resolving www.kernel.org (www.kernel.org)... 2a04:4e42:f000::311, 167.82.49.55
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://pypi.org/packages/source/J/Jinja2/jinja2-3.1.6.tar.gz
+Connecting to pypi.org (pypi.org)|2a04:4e42:600::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://files.pythonhosted.org/packages/source/J/Jinja2/jinja2-3.1.6.tar.gz [following]
+--2026-05-22 20:31:50--  https://files.pythonhosted.org/packages/source/J/Jinja2/jinja2-3.1.6.tar.gz
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/df/bf/f7da0350254c0ed7c72f3e33cef02e048281fec7ecec5f032d4aac52226b/jinja2-3.1.6.tar.gz [following]
+--2026-05-22 20:31:50--  https://files.pythonhosted.org/packages/df/bf/f7da0350254c0ed7c72f3e33cef02e048281fec7ecec5f032d4aac52226b/jinja2-3.1.6.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://www.kernel.org/pub/linux/utils/kbd/kbd-2.9.0.tar.xz
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.2.tar.xz
+Reusing existing connection to [www.kernel.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://www.greenwoodsoftware.com/less/less-692.tar.gz
+Resolving www.greenwoodsoftware.com (www.greenwoodsoftware.com)... 104.200.21.227
+Connecting to www.greenwoodsoftware.com (www.greenwoodsoftware.com)|104.200.21.227|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:50--  https://www.linuxfromscratch.org/lfs/downloads/13.0/lfs-bootscripts-20250827.tar.xz
+Resolving www.linuxfromscratch.org (www.linuxfromscratch.org)... 208.118.68.85
+Connecting to www.linuxfromscratch.org (www.linuxfromscratch.org)|208.118.68.85|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-22 20:31:51 ERROR 404: Not Found.
+
+--2026-05-22 20:31:51--  https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.77.tar.xz
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:51--  https://github.com/libffi/libffi/releases/download/v3.5.2/libffi-3.5.2.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/321154/a7ac1470-95d7-4036-9735-36099626d83e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A23Z&rscd=attachment%3B+filename%3Dlibffi-3.5.2.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A42Z&ske=2026-05-22T21%3A05%3A23Z&sks=b&skv=2018-11-09&sig=%2B8VJ1s9HvohdxJiTvKpXjQ26oXJ%2B0UHDZmaoi3jwRCk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIxMSwibmJmIjoxNzc5NDgxOTExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qB31zuKVYY52S_yBsj1rSQTp5rhZgTcIDUr_BE0OtJE&response-content-disposition=attachment%3B%20filename%3Dlibffi-3.5.2.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:31:51--  https://release-assets.githubusercontent.com/github-production-release-asset/321154/a7ac1470-95d7-4036-9735-36099626d83e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A23Z&rscd=attachment%3B+filename%3Dlibffi-3.5.2.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A04%3A42Z&ske=2026-05-22T21%3A05%3A23Z&sks=b&skv=2018-11-09&sig=%2B8VJ1s9HvohdxJiTvKpXjQ26oXJ%2B0UHDZmaoi3jwRCk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIxMSwibmJmIjoxNzc5NDgxOTExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qB31zuKVYY52S_yBsj1rSQTp5rhZgTcIDUr_BE0OtJE&response-content-disposition=attachment%3B%20filename%3Dlibffi-3.5.2.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:51--  https://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.5.8.tar.gz
+Connecting to download.savannah.gnu.org (download.savannah.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/nongnu/libpipeline/libpipeline-1.5.8.tar.gz [following]
+--2026-05-22 20:31:52--  https://mirrors.ocf.berkeley.edu/nongnu/libpipeline/libpipeline-1.5.8.tar.gz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:52--  https://ftpmirror.gnu.org/libtool/libtool-2.5.4.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/libtool/libtool-2.5.4.tar.xz [following]
+--2026-05-22 20:31:52--  https://mirrors.ibiblio.org/gnu/libtool/libtool-2.5.4.tar.xz
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:53--  https://github.com/besser82/libxcrypt/releases/download/v4.5.2/libxcrypt-4.5.2.tar.xz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/35503965/89a5b9f1-6f53-442c-ae64-42bafed309fd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A39Z&rscd=attachment%3B+filename%3Dlibxcrypt-4.5.2.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A05%3A03Z&ske=2026-05-22T21%3A05%3A39Z&sks=b&skv=2018-11-09&sig=FqbJMmmbnHSeucTLC5BA35ANd%2FCUyk3jt7iiG4u6XyI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIxMywibmJmIjoxNzc5NDgxOTEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Aqv_LNHrOhaFO8Zg5et5XzNNLNuRL-9waIy5gZSFD1k&response-content-disposition=attachment%3B%20filename%3Dlibxcrypt-4.5.2.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:31:53--  https://release-assets.githubusercontent.com/github-production-release-asset/35503965/89a5b9f1-6f53-442c-ae64-42bafed309fd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A05%3A39Z&rscd=attachment%3B+filename%3Dlibxcrypt-4.5.2.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A05%3A03Z&ske=2026-05-22T21%3A05%3A39Z&sks=b&skv=2018-11-09&sig=FqbJMmmbnHSeucTLC5BA35ANd%2FCUyk3jt7iiG4u6XyI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjIxMywibmJmIjoxNzc5NDgxOTEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Aqv_LNHrOhaFO8Zg5et5XzNNLNuRL-9waIy5gZSFD1k&response-content-disposition=attachment%3B%20filename%3Dlibxcrypt-4.5.2.tar.xz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:31:53--  https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.18.10.tar.xz
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 503 first byte timeout
+2026-05-22 20:32:57 ERROR 503: first byte timeout.
+
+--2026-05-22 20:32:57--  https://github.com/lz4/lz4/releases/download/v1.10.0/lz4-1.10.0.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/18106269/26ca634c-7a27-4a9c-b280-60db44f8a9eb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A09%3A05Z&rscd=attachment%3B+filename%3Dlz4-1.10.0.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A08%3A12Z&ske=2026-05-22T21%3A09%3A05Z&sks=b&skv=2018-11-09&sig=88RH08zlvwP0UlXDJ9iLflMB4Dm%2B%2BCROE5X2C3U0A2A%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI3NywibmJmIjoxNzc5NDgxOTc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.KmNMNxgfDYhtDUF6uTNBs1XRzdT2MFSVd4lT1M_Yj2U&response-content-disposition=attachment%3B%20filename%3Dlz4-1.10.0.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:32:57--  https://release-assets.githubusercontent.com/github-production-release-asset/18106269/26ca634c-7a27-4a9c-b280-60db44f8a9eb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A09%3A05Z&rscd=attachment%3B+filename%3Dlz4-1.10.0.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A08%3A12Z&ske=2026-05-22T21%3A09%3A05Z&sks=b&skv=2018-11-09&sig=88RH08zlvwP0UlXDJ9iLflMB4Dm%2B%2BCROE5X2C3U0A2A%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI3NywibmJmIjoxNzc5NDgxOTc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.KmNMNxgfDYhtDUF6uTNBs1XRzdT2MFSVd4lT1M_Yj2U&response-content-disposition=attachment%3B%20filename%3Dlz4-1.10.0.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:32:58--  https://ftpmirror.gnu.org/m4/m4-1.4.21.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ocf.berkeley.edu/gnu/m4/m4-1.4.21.tar.xz [following]
+--2026-05-22 20:32:58--  https://mirrors.ocf.berkeley.edu/gnu/m4/m4-1.4.21.tar.xz
+Connecting to mirrors.ocf.berkeley.edu (mirrors.ocf.berkeley.edu)|2607:f140:0:32::70|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:32:58--  https://ftpmirror.gnu.org/make/make-4.4.1.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.cs.odu.edu/gnu/make/make-4.4.1.tar.gz [following]
+--2026-05-22 20:32:59--  https://mirror.cs.odu.edu/gnu/make/make-4.4.1.tar.gz
+Connecting to mirror.cs.odu.edu (mirror.cs.odu.edu)|128.82.4.140|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:32:59--  https://download.savannah.gnu.org/releases/man-db/man-db-2.13.1.tar.xz
+Connecting to download.savannah.gnu.org (download.savannah.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://nongnu.askapache.com/man-db/man-db-2.13.1.tar.xz [following]
+--2026-05-22 20:33:00--  https://nongnu.askapache.com/man-db/man-db-2.13.1.tar.xz
+Resolving nongnu.askapache.com (nongnu.askapache.com)... 143.198.25.166
+Connecting to nongnu.askapache.com (nongnu.askapache.com)|143.198.25.166|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:00--  https://www.kernel.org/pub/linux/docs/man-pages/man-pages-6.17.tar.xz
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:00--  https://pypi.org/packages/source/M/MarkupSafe/markupsafe-3.0.3.tar.gz
+Connecting to pypi.org (pypi.org)|2a04:4e42:600::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://files.pythonhosted.org/packages/source/M/MarkupSafe/markupsafe-3.0.3.tar.gz [following]
+--2026-05-22 20:33:00--  https://files.pythonhosted.org/packages/source/M/MarkupSafe/markupsafe-3.0.3.tar.gz
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/7e/99/7690b6d4034fffd95959cbe0c02de8deb3098cc577c67bb6a24fe5d7caa7/markupsafe-3.0.3.tar.gz [following]
+--2026-05-22 20:33:00--  https://files.pythonhosted.org/packages/7e/99/7690b6d4034fffd95959cbe0c02de8deb3098cc577c67bb6a24fe5d7caa7/markupsafe-3.0.3.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:01--  https://github.com/mesonbuild/meson/releases/download/1.10.1/meson-1.10.1.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/19784232/80ec3347-4129-4285-b926-8550ea599656?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A37Z&rscd=attachment%3B+filename%3Dmeson-1.10.1.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A34Z&ske=2026-05-22T21%3A32%3A37Z&sks=b&skv=2018-11-09&sig=Jhod8Q76Xx3vC42O6E2barcgls%2F4pQ%2F09c4K8R2Er5g%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI4MSwibmJmIjoxNzc5NDgxOTgxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YG41bOdQR6G5OxRz01Ym7eug30PJZLDm4a8a_RmxEQ4&response-content-disposition=attachment%3B%20filename%3Dmeson-1.10.1.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:01--  https://release-assets.githubusercontent.com/github-production-release-asset/19784232/80ec3347-4129-4285-b926-8550ea599656?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A37Z&rscd=attachment%3B+filename%3Dmeson-1.10.1.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A34Z&ske=2026-05-22T21%3A32%3A37Z&sks=b&skv=2018-11-09&sig=Jhod8Q76Xx3vC42O6E2barcgls%2F4pQ%2F09c4K8R2Er5g%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI4MSwibmJmIjoxNzc5NDgxOTgxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YG41bOdQR6G5OxRz01Ym7eug30PJZLDm4a8a_RmxEQ4&response-content-disposition=attachment%3B%20filename%3Dmeson-1.10.1.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:01--  https://ftpmirror.gnu.org/mpc/mpc-1.3.1.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/mpc/mpc-1.3.1.tar.gz [following]
+--2026-05-22 20:33:01--  https://mirrors.ibiblio.org/gnu/mpc/mpc-1.3.1.tar.gz
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:02--  https://ftpmirror.gnu.org/mpfr/mpfr-4.2.2.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.techrich.hk/gnu/mpfr/mpfr-4.2.2.tar.xz [following]
+--2026-05-22 20:33:02--  https://mirror.techrich.hk/gnu/mpfr/mpfr-4.2.2.tar.xz
+Connecting to mirror.techrich.hk (mirror.techrich.hk)|96.44.148.105|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:03--  https://invisible-mirror.net/archives/ncurses/ncurses-6.6.tar.gz
+Resolving invisible-mirror.net (invisible-mirror.net)... 107.180.113.177
+Connecting to invisible-mirror.net (invisible-mirror.net)|107.180.113.177|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:03--  https://github.com/ninja-build/ninja/archive/v1.13.2/ninja-1.13.2.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/ninja-build/ninja/tar.gz/refs/tags/v1.13.2 [following]
+--2026-05-22 20:33:03--  https://codeload.github.com/ninja-build/ninja/tar.gz/refs/tags/v1.13.2
+Resolving codeload.github.com (codeload.github.com)... 140.82.116.10
+Connecting to codeload.github.com (codeload.github.com)|140.82.116.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:03--  https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/7634677/9053a485-6595-465a-b431-e18c5efef30c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A39Z&rscd=attachment%3B+filename%3Dopenssl-3.6.1.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A13Z&ske=2026-05-22T21%3A07%3A39Z&sks=b&skv=2018-11-09&sig=zACrBy1fDUnrCr7Sxbt5Wp2JDYQyeVw7zoXumfBlEfw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4Mzc4NCwibmJmIjoxNzc5NDgxOTg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gVlmt8Q0HrzCW3_0xEkWezgDt4i2xY6Y05kOLmv7eys&response-content-disposition=attachment%3B%20filename%3Dopenssl-3.6.1.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:04--  https://release-assets.githubusercontent.com/github-production-release-asset/7634677/9053a485-6595-465a-b431-e18c5efef30c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A07%3A39Z&rscd=attachment%3B+filename%3Dopenssl-3.6.1.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A13Z&ske=2026-05-22T21%3A07%3A39Z&sks=b&skv=2018-11-09&sig=zACrBy1fDUnrCr7Sxbt5Wp2JDYQyeVw7zoXumfBlEfw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4Mzc4NCwibmJmIjoxNzc5NDgxOTg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gVlmt8Q0HrzCW3_0xEkWezgDt4i2xY6Y05kOLmv7eys&response-content-disposition=attachment%3B%20filename%3Dopenssl-3.6.1.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:04--  https://files.pythonhosted.org/packages/source/p/packaging/packaging-26.0.tar.gz
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/65/ee/299d360cdc32edc7d2cf530f3accf79c4fca01e96ffc950d8a52213bd8e4/packaging-26.0.tar.gz [following]
+--2026-05-22 20:33:04--  https://files.pythonhosted.org/packages/65/ee/299d360cdc32edc7d2cf530f3accf79c4fca01e96ffc950d8a52213bd8e4/packaging-26.0.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:04--  https://ftpmirror.gnu.org/patch/patch-2.8.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.team-cymru.com/gnu/patch/patch-2.8.tar.xz [following]
+--2026-05-22 20:33:05--  https://mirror.team-cymru.com/gnu/patch/patch-2.8.tar.xz
+Connecting to mirror.team-cymru.com (mirror.team-cymru.com)|2604:8800:50:80:216:31:2:234|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:05--  https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.47/pcre2-10.47.tar.bz2
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/398251321/87c8a789-7142-45f7-bc0d-54789f44820f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A52Z&rscd=attachment%3B+filename%3Dpcre2-10.47.tar.bz2&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A10Z&ske=2026-05-22T21%3A32%3A52Z&sks=b&skv=2018-11-09&sig=blhz8A49SqAt61iQhiUmNtkOCHmHvmNqlugHokd8MHQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI2MSwibmJmIjoxNzc5NDgxOTYxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jB5A_NwiVutes0seTzW4K2lM9Dh3csVFRd26P25fxGo&response-content-disposition=attachment%3B%20filename%3Dpcre2-10.47.tar.bz2&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:05--  https://release-assets.githubusercontent.com/github-production-release-asset/398251321/87c8a789-7142-45f7-bc0d-54789f44820f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A52Z&rscd=attachment%3B+filename%3Dpcre2-10.47.tar.bz2&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A10Z&ske=2026-05-22T21%3A32%3A52Z&sks=b&skv=2018-11-09&sig=blhz8A49SqAt61iQhiUmNtkOCHmHvmNqlugHokd8MHQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI2MSwibmJmIjoxNzc5NDgxOTYxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jB5A_NwiVutes0seTzW4K2lM9Dh3csVFRd26P25fxGo&response-content-disposition=attachment%3B%20filename%3Dpcre2-10.47.tar.bz2&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:05--  https://www.cpan.org/src/5.0/perl-5.42.0.tar.xz
+Resolving www.cpan.org (www.cpan.org)... 2a04:4e42:f000::311, 167.82.49.55
+Connecting to www.cpan.org (www.cpan.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:05--  https://distfiles.ariadne.space/pkgconf/pkgconf-2.5.1.tar.xz
+Resolving distfiles.ariadne.space (distfiles.ariadne.space)... 2606:7940:32:3e::10, 199.255.18.183
+Connecting to distfiles.ariadne.space (distfiles.ariadne.space)|2606:7940:32:3e::10|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:06--  https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.6.tar.xz
+Resolving sourceforge.net (sourceforge.net)... 2606:4700::6812:c95, 2606:4700::6812:d95, 104.18.13.149, ...
+Connecting to sourceforge.net (sourceforge.net)|2606:4700::6812:c95|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.6.tar.xz/ [following]
+--2026-05-22 20:33:06--  https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.6.tar.xz/
+Reusing existing connection to [sourceforge.net]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.6.tar.xz/download [following]
+--2026-05-22 20:33:06--  https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.6.tar.xz/download
+Reusing existing connection to [sourceforge.net]:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://downloads.sourceforge.net/project/procps-ng/Production/procps-ng-4.0.6.tar.xz?ts=gAAAAABqEL2CanV3x-gEa4U-fkGKVmvhvDDP7T5rSriO9tukQlAAQ4-zk_BSA27m2IhjqvfRxfFv5V7tMd_aE-_t96aznDSuTw%3D%3D&use_mirror=gigenet&r= [following]
+--2026-05-22 20:33:06--  https://downloads.sourceforge.net/project/procps-ng/Production/procps-ng-4.0.6.tar.xz?ts=gAAAAABqEL2CanV3x-gEa4U-fkGKVmvhvDDP7T5rSriO9tukQlAAQ4-zk_BSA27m2IhjqvfRxfFv5V7tMd_aE-_t96aznDSuTw%3D%3D&use_mirror=gigenet&r=
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gigenet.dl.sourceforge.net/project/procps-ng/Production/procps-ng-4.0.6.tar.xz?viasf=1&fid=058308d57264184f [following]
+--2026-05-22 20:33:06--  https://gigenet.dl.sourceforge.net/project/procps-ng/Production/procps-ng-4.0.6.tar.xz?viasf=1&fid=058308d57264184f
+Resolving gigenet.dl.sourceforge.net (gigenet.dl.sourceforge.net)... 69.65.16.141
+Connecting to gigenet.dl.sourceforge.net (gigenet.dl.sourceforge.net)|69.65.16.141|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:06--  https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz
+Connecting to sourceforge.net (sourceforge.net)|2606:4700::6812:c95|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz/ [following]
+--2026-05-22 20:33:06--  https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz/
+Reusing existing connection to [sourceforge.net]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz/download [following]
+--2026-05-22 20:33:07--  https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz/download
+Reusing existing connection to [sourceforge.net]:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://downloads.sourceforge.net/project/psmisc/psmisc/psmisc-23.7.tar.xz?ts=gAAAAABqEL2DEEkWP3ysCxjFfjz1YrxFSv4cTsN5uaMxr7w9GDxPSqDwgNG99__a18yv_aLnwmEeV9uFASg12uWR189P5nMSqw%3D%3D&use_mirror=psychz&r= [following]
+--2026-05-22 20:33:07--  https://downloads.sourceforge.net/project/psmisc/psmisc/psmisc-23.7.tar.xz?ts=gAAAAABqEL2DEEkWP3ysCxjFfjz1YrxFSv4cTsN5uaMxr7w9GDxPSqDwgNG99__a18yv_aLnwmEeV9uFASg12uWR189P5nMSqw%3D%3D&use_mirror=psychz&r=
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://psychz.dl.sourceforge.net/project/psmisc/psmisc/psmisc-23.7.tar.xz?viasf=1&fid=b8b4167720078fbd [following]
+--2026-05-22 20:33:07--  https://psychz.dl.sourceforge.net/project/psmisc/psmisc/psmisc-23.7.tar.xz?viasf=1&fid=b8b4167720078fbd
+Resolving psychz.dl.sourceforge.net (psychz.dl.sourceforge.net)... 208.87.241.191
+Connecting to psychz.dl.sourceforge.net (psychz.dl.sourceforge.net)|208.87.241.191|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:07--  https://www.python.org/ftp/python/3.14.3/Python-3.14.3.tar.xz
+Resolving www.python.org (www.python.org)... 2a04:4e42:f000::223, 167.82.16.223
+Connecting to www.python.org (www.python.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:07--  https://www.python.org/ftp/python/doc/3.14.3/python-3.14.3-docs-html.tar.bz2
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:08--  https://ftpmirror.gnu.org/readline/readline-8.3.tar.gz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.techrich.hk/gnu/readline/readline-8.3.tar.gz [following]
+--2026-05-22 20:33:09--  https://mirror.techrich.hk/gnu/readline/readline-8.3.tar.gz
+Connecting to mirror.techrich.hk (mirror.techrich.hk)|96.44.148.105|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:09--  https://ftpmirror.gnu.org/sed/sed-4.9.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.cs.odu.edu/gnu/sed/sed-4.9.tar.xz [following]
+--2026-05-22 20:33:09--  https://mirror.cs.odu.edu/gnu/sed/sed-4.9.tar.xz
+Connecting to mirror.cs.odu.edu (mirror.cs.odu.edu)|128.82.4.140|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:10--  https://pypi.org/packages/source/s/setuptools/setuptools-82.0.0.tar.gz
+Connecting to pypi.org (pypi.org)|2a04:4e42:600::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://files.pythonhosted.org/packages/source/s/setuptools/setuptools-82.0.0.tar.gz [following]
+--2026-05-22 20:33:10--  https://files.pythonhosted.org/packages/source/s/setuptools/setuptools-82.0.0.tar.gz
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/82/f3/748f4d6f65d1756b9ae577f329c951cda23fb900e4de9f70900ced962085/setuptools-82.0.0.tar.gz [following]
+--2026-05-22 20:33:10--  https://files.pythonhosted.org/packages/82/f3/748f4d6f65d1756b9ae577f329c951cda23fb900e4de9f70900ced962085/setuptools-82.0.0.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:10--  https://github.com/shadow-maint/shadow/releases/download/4.19.3/shadow-4.19.3.tar.xz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/10508169/a6881bf0-bf71-4a35-9504-b0f3e7df6c73?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A25Z&rscd=attachment%3B+filename%3Dshadow-4.19.3.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A14Z&ske=2026-05-22T21%3A32%3A25Z&sks=b&skv=2018-11-09&sig=GSR4%2BlgIOYD4qzkmtkHBnWA5ahNfv5qmd5MV7OoeCVg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5MCwibmJmIjoxNzc5NDgxOTkwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2gN6XmfbcRuwhrDFzGGgtYvJ8QTA6qa3CWeJJIeWQn4&response-content-disposition=attachment%3B%20filename%3Dshadow-4.19.3.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:10--  https://release-assets.githubusercontent.com/github-production-release-asset/10508169/a6881bf0-bf71-4a35-9504-b0f3e7df6c73?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A25Z&rscd=attachment%3B+filename%3Dshadow-4.19.3.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A14Z&ske=2026-05-22T21%3A32%3A25Z&sks=b&skv=2018-11-09&sig=GSR4%2BlgIOYD4qzkmtkHBnWA5ahNfv5qmd5MV7OoeCVg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5MCwibmJmIjoxNzc5NDgxOTkwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2gN6XmfbcRuwhrDFzGGgtYvJ8QTA6qa3CWeJJIeWQn4&response-content-disposition=attachment%3B%20filename%3Dshadow-4.19.3.tar.xz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:11--  https://sqlite.org/2026/sqlite-autoconf-3510200.tar.gz
+Resolving sqlite.org (sqlite.org)... 2600:3c02::f03c:95ff:fe07:695, 194.195.208.62
+Connecting to sqlite.org (sqlite.org)|2600:3c02::f03c:95ff:fe07:695|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:11--  https://anduin.linuxfromscratch.org/LFS/sqlite-doc-3510200.tar.xz
+Resolving anduin.linuxfromscratch.org (anduin.linuxfromscratch.org)... 104.200.30.157
+Connecting to anduin.linuxfromscratch.org (anduin.linuxfromscratch.org)|104.200.30.157|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:11--  https://github.com/troglobit/sysklogd/releases/download/v2.7.2/sysklogd-2.7.2.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/143292860/c92abd31-c7b7-471a-b909-74016da574bd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A08%3A18Z&rscd=attachment%3B+filename%3Dsysklogd-2.7.2.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A32Z&ske=2026-05-22T21%3A08%3A18Z&sks=b&skv=2018-11-09&sig=Ga7HHAjVo%2BMjUBZbWG%2FPYmP1LXD8A5OMAAZg%2FdSLAZM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5MiwibmJmIjoxNzc5NDgxOTkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FEyS2vQuVPXQmMoIoKotM2hgpk8Sn8B9KWu4xVB46Kw&response-content-disposition=attachment%3B%20filename%3Dsysklogd-2.7.2.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:12--  https://release-assets.githubusercontent.com/github-production-release-asset/143292860/c92abd31-c7b7-471a-b909-74016da574bd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A08%3A18Z&rscd=attachment%3B+filename%3Dsysklogd-2.7.2.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A07%3A32Z&ske=2026-05-22T21%3A08%3A18Z&sks=b&skv=2018-11-09&sig=Ga7HHAjVo%2BMjUBZbWG%2FPYmP1LXD8A5OMAAZg%2FdSLAZM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5MiwibmJmIjoxNzc5NDgxOTkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FEyS2vQuVPXQmMoIoKotM2hgpk8Sn8B9KWu4xVB46Kw&response-content-disposition=attachment%3B%20filename%3Dsysklogd-2.7.2.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:12--  https://github.com/systemd/systemd/archive/v259.1/systemd-259.1.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/systemd/systemd/tar.gz/refs/tags/v259.1 [following]
+--2026-05-22 20:33:12--  https://codeload.github.com/systemd/systemd/tar.gz/refs/tags/v259.1
+Connecting to codeload.github.com (codeload.github.com)|140.82.116.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-gzip]
+Saving to: ‘/mnt/lfs/sources/systemd-259.1.tar.gz’
+
+     0K .......... .......... .......... .......... ..........  655K
+    50K .......... .......... .......... .......... .......... 1.30M
+   100K .......... .......... .......... .......... .......... 6.90M
+   150K .......... .......... .......... .......... .......... 1.55M
+   200K .......... .......... .......... .......... .......... 6.09M
+   250K .......... .......... .......... .......... .......... 34.5M
+   300K .......... .......... .......... .......... .......... 1.87M
+   350K .......... .......... .......... .......... .......... 7.81M
+   400K .......... .......... .......... .......... .......... 65.3M
+   450K .......... .......... .......... .......... ..........  102M
+   500K .......... .......... .......... .......... .......... 7.48M
+   550K .......... .......... .......... .......... .......... 29.9M
+   600K .......... .......... .......... .......... .......... 14.2M
+   650K .......... .......... .......... .......... .......... 2.74M
+   700K .......... .......... .......... .......... .......... 37.9M
+   750K .......... .......... .......... .......... .......... 9.09M
+   800K .......... .......... .......... .......... .......... 36.5M
+   850K .......... .......... .......... .......... .......... 46.9M
+   900K .......... .......... .......... .......... .......... 53.4M
+   950K .......... .......... .......... .......... .......... 34.7M
+  1000K .......... .......... .......... .......... .......... 38.4M
+  1050K .......... .......... .......... .......... .......... 9.33M
+  1100K .......... .......... .......... .......... .......... 54.1M
+  1150K .......... .......... .......... .......... .......... 75.6M
+  1200K .......... .......... .......... .......... .......... 67.4M
+  1250K .......... .......... .......... .......... .......... 58.1M
+  1300K .......... .......... .......... .......... .......... 65.5M
+  1350K .......... .......... .......... .......... .......... 2.65M
+  1400K .......... .......... .......... .......... .......... 72.5M
+  1450K .......... .......... .......... .......... .......... 86.3M
+  1500K .......... .......... .......... .......... .......... 56.0M
+  1550K .......... .......... .......... .......... .......... 22.7M
+  1600K .......... .......... .......... .......... .......... 8.95M
+  1650K .......... .......... .......... .......... .......... 51.9M
+  1700K .......... .......... .......... .......... .......... 75.0M
+  1750K .......... .......... .......... .......... .......... 75.4M
+  1800K .......... .......... .......... .......... .......... 61.0M
+  1850K .......... .......... .......... .......... .......... 61.2M
+  1900K .......... .......... .......... .......... .......... 66.6M
+  1950K .......... .......... .......... .......... .......... 59.9M
+  2000K .......... .......... .......... .......... .......... 68.2M
+  2050K .......... .......... .......... .......... .......... 78.6M
+  2100K .......... .......... .......... .......... .......... 77.0M
+  2150K .......... .......... .......... .......... .......... 10.8M
+  2200K .......... .......... .......... .......... .......... 62.1M
+  2250K .......... .......... .......... .......... .......... 51.4M
+  2300K .......... .......... .......... .......... .......... 1.57M
+  2350K .......... .......... .......... .......... .......... 36.7M
+  2400K .......... .......... .......... .......... .......... 70.4M
+  2450K .......... .......... .......... .......... .......... 61.5M
+  2500K .......... .......... .......... .......... .......... 43.1M
+  2550K .......... .......... .......... .......... .......... 1.89M
+  2600K .......... .......... .......... .......... .......... 36.7M
+  2650K .......... .......... .......... .......... .......... 68.2M
+  2700K .......... .......... .......... .......... .......... 63.0M
+  2750K .......... .......... .......... .......... .......... 47.0M
+  2800K .......... .......... .......... .......... .......... 1.97M
+  2850K .......... .......... .......... .......... .......... 39.5M
+  2900K .......... .......... .......... .......... .......... 36.7M
+  2950K .......... .......... .......... .......... .......... 45.8M
+  3000K .......... .......... .......... .......... .......... 44.9M
+  3050K .......... .......... .......... .......... .......... 2.01M
+  3100K .......... .......... .......... .......... .......... 63.0M
+  3150K .......... .......... .......... .......... .......... 70.9M
+  3200K .......... .......... .......... .......... .......... 73.8M
+  3250K .......... .......... .......... .......... .......... 77.7M
+  3300K .......... .......... .......... .......... .......... 1.87M
+  3350K .......... .......... .......... .......... .......... 24.5M
+  3400K .......... .......... .......... .......... .......... 64.2M
+  3450K .......... .......... .......... .......... .......... 43.8M
+  3500K .......... .......... .......... .......... .......... 51.6M
+  3550K .......... .......... .......... .......... .......... 1.98M
+  3600K .......... .......... .......... .......... .......... 28.4M
+  3650K .......... .......... .......... .......... .......... 42.8M
+  3700K .......... .......... .......... .......... .......... 47.2M
+  3750K .......... .......... .......... .......... .......... 64.9M
+  3800K .......... .......... .......... .......... .......... 1.33M
+  3850K .......... .......... .......... .......... .......... 45.3M
+  3900K .......... .......... .......... .......... .......... 45.3M
+  3950K .......... .......... .......... .......... .......... 65.1M
+  4000K .......... .......... .......... .......... .......... 64.2M
+  4050K .......... .......... .......... .......... .......... 1.71M
+  4100K .......... .......... .......... .......... .......... 20.6M
+  4150K .......... .......... .......... .......... .......... 27.4M
+  4200K .......... .......... .......... .......... .......... 17.7M
+  4250K .......... .......... .......... .......... .......... 54.4M
+  4300K .......... .......... .......... .......... .......... 38.4M
+  4350K .......... .......... .......... .......... .......... 1.77M
+  4400K .......... .......... .......... .......... .......... 43.4M
+  4450K .......... .......... .......... .......... .......... 41.0M
+  4500K .......... .......... .......... .......... .......... 62.9M
+  4550K .......... .......... .......... .......... .......... 72.5M
+  4600K .......... .......... .......... .......... .......... 1.44M
+  4650K .......... .......... .......... .......... .......... 30.1M
+  4700K .......... .......... .......... .......... .......... 40.0M
+  4750K .......... .......... .......... .......... .......... 51.3M
+  4800K .......... .......... .......... .......... .......... 68.0M
+  4850K .......... .......... .......... .......... .......... 1.48M
+  4900K .......... .......... .......... .......... .......... 51.7M
+  4950K .......... .......... .......... .......... .......... 67.7M
+  5000K .......... .......... .......... .......... .......... 74.8M
+  5050K .......... .......... .......... .......... .......... 78.9M
+  5100K .......... .......... .......... .......... .......... 1.49M
+  5150K .......... .......... .......... .......... .......... 17.7M
+  5200K .......... .......... .......... .......... .......... 39.4M
+  5250K .......... .......... .......... .......... .......... 50.4M
+  5300K .......... .......... .......... .......... .......... 75.1M
+  5350K .......... .......... .......... .......... .......... 1.65M
+  5400K .......... .......... .......... .......... .......... 41.2M
+  5450K .......... .......... .......... .......... .......... 21.6M
+  5500K .......... .......... .......... .......... .......... 35.4M
+  5550K .......... .......... .......... .......... .......... 38.1M
+  5600K .......... .......... .......... .......... .......... 1.29M
+  5650K .......... .......... .......... .......... .......... 40.5M
+  5700K .......... .......... .......... .......... .......... 16.5M
+  5750K .......... .......... .......... .......... .......... 64.4M
+  5800K .......... .......... .......... .......... .......... 91.6M
+  5850K .......... .......... .......... .......... .......... 1.78M
+  5900K .......... .......... .......... .......... .......... 58.9M
+  5950K .......... .......... .......... .......... .......... 96.6M
+  6000K .......... .......... .......... .......... .......... 72.0M
+  6050K .......... .......... .......... .......... .......... 76.3M
+  6100K .......... .......... .......... .......... .......... 1.63M
+  6150K .......... .......... .......... .......... .......... 61.1M
+  6200K .......... .......... .......... .......... .......... 84.2M
+  6250K .......... .......... .......... .......... .......... 93.8M
+  6300K .......... .......... .......... .......... .......... 30.6M
+  6350K .......... .......... .......... .......... .......... 42.7M
+  6400K .......... .......... .......... .......... .......... 1.56M
+  6450K .......... .......... .......... .......... .......... 69.8M
+  6500K .......... .......... .......... .......... .......... 42.6M
+  6550K .......... .......... .......... .......... .......... 90.0M
+  6600K .......... .......... .......... .......... .......... 90.1M
+  6650K .......... .......... .......... .......... .......... 1.29M
+  6700K .......... .......... .......... .......... .......... 66.9M
+  6750K .......... .......... .......... .......... .......... 67.6M
+  6800K .......... .......... .......... .......... .......... 48.2M
+  6850K .......... .......... .......... .......... .......... 48.6M
+  6900K .......... .......... .......... .......... .......... 1.86M
+  6950K .......... .......... .......... .......... .......... 20.5M
+  7000K .......... .......... .......... .......... .......... 28.6M
+  7050K .......... .......... .......... .......... .......... 44.3M
+  7100K .......... .......... .......... .......... .......... 40.5M
+  7150K .......... .......... .......... .......... .......... 1.98M
+  7200K .......... .......... .......... .......... .......... 70.2M
+  7250K .......... .......... .......... .......... .......... 28.3M
+  7300K .......... .......... .......... .......... .......... 75.5M
+  7350K .......... .......... .......... .......... .......... 67.6M
+  7400K .......... .......... .......... .......... .......... 1.95M
+  7450K .......... .......... .......... .......... .......... 72.8M
+  7500K .......... .......... .......... .......... .......... 85.8M
+  7550K .......... .......... .......... .......... .......... 77.1M
+  7600K .......... .......... .......... .......... .......... 65.1M
+  7650K .......... .......... .......... .......... .......... 1.67M
+  7700K .......... .......... .......... .......... .......... 41.2M
+  7750K .......... .......... .......... .......... .......... 19.3M
+  7800K .......... .......... .......... .......... .......... 64.4M
+  7850K .......... .......... .......... .......... .......... 41.7M
+  7900K .......... .......... .......... .......... .......... 1.82M
+  7950K .......... .......... .......... .......... .......... 46.6M
+  8000K .......... .......... .......... .......... .......... 60.1M
+  8050K .......... .......... .......... .......... .......... 40.5M
+  8100K .......... .......... .......... .......... .......... 34.6M
+  8150K .......... .......... .......... .......... .......... 1.58M
+  8200K .......... .......... .......... .......... .......... 47.9M
+  8250K .......... .......... .......... .......... .......... 48.1M
+  8300K .......... .......... .......... .......... .......... 38.1M
+  8350K .......... .......... .......... .......... .......... 58.2M
+  8400K .......... .......... .......... .......... .......... 1.89M
+  8450K .......... .......... .......... .......... .......... 81.1M
+  8500K .......... .......... .......... .......... .......... 55.0M
+  8550K .......... .......... .......... .......... .......... 71.2M
+  8600K .......... .......... .......... .......... .......... 89.3M
+  8650K .......... .......... .......... .......... .......... 46.1M
+  8700K .......... .......... .......... .......... .......... 1.53M
+  8750K .......... .......... .......... .......... .......... 72.3M
+  8800K .......... .......... .......... .......... .......... 62.7M
+  8850K .......... .......... .......... .......... .......... 86.3M
+  8900K .......... .......... .......... .......... .......... 48.4M
+  8950K .......... .......... .......... .......... .......... 2.17M
+  9000K .......... .......... .......... .......... .......... 36.4M
+  9050K .......... .......... .......... .......... .......... 58.8M
+  9100K .......... .......... .......... .......... .......... 46.7M
+  9150K .......... .......... .......... .......... .......... 55.6M
+  9200K .......... .......... .......... .......... .......... 1.69M
+  9250K .......... .......... .......... .......... .......... 35.0M
+  9300K .......... .......... .......... .......... .......... 36.1M
+  9350K .......... .......... .......... .......... .......... 38.9M
+  9400K .......... .......... .......... .......... .......... 60.1M
+  9450K .......... .......... .......... .......... .......... 1.71M
+  9500K .......... .......... .......... .......... .......... 34.4M
+  9550K .......... .......... .......... .......... .......... 39.8M
+  9600K .......... .......... .......... .......... .......... 38.5M
+  9650K .......... .......... .......... .......... .......... 54.7M
+  9700K .......... .......... .......... .......... .......... 2.34M
+  9750K .......... .......... .......... .......... .......... 72.5M
+  9800K .......... .......... .......... .......... .......... 67.8M
+  9850K .......... .......... .......... .......... .......... 58.4M
+  9900K .......... .......... .......... .......... .......... 59.6M
+  9950K .......... .......... .......... .......... .......... 1.45M
+ 10000K .......... .......... .......... .......... .......... 13.7M
+ 10050K .......... .......... .......... .......... .......... 37.3M
+ 10100K .......... .......... .......... .......... .......... 47.1M
+ 10150K .......... .......... .......... .......... .......... 48.2M
+ 10200K .......... .......... .......... .......... .......... 2.14M
+ 10250K .......... .......... .......... .......... .......... 47.7M
+ 10300K .......... .......... .......... .......... .......... 47.2M
+ 10350K .......... .......... .......... .......... .......... 48.9M
+ 10400K .......... .......... .......... .......... .......... 52.3M
+ 10450K .......... .......... .......... .......... .......... 1.93M
+ 10500K .......... .......... .......... .......... .......... 24.5M
+ 10550K .......... .......... .......... .......... .......... 39.8M
+ 10600K .......... .......... .......... .......... .......... 40.0M
+ 10650K .......... .......... .......... .......... .......... 61.6M
+ 10700K .......... .......... .......... .......... .......... 39.1M
+ 10750K .......... .......... .......... .......... .......... 1.61M
+ 10800K .......... .......... .......... .......... .......... 32.1M
+ 10850K .......... .......... .......... .......... .......... 35.4M
+ 10900K .......... .......... .......... .......... .......... 47.4M
+ 10950K .......... .......... .......... .......... .......... 54.5M
+ 11000K .......... .......... .......... .......... .......... 1.84M
+ 11050K .......... .......... .......... .......... .......... 43.4M
+ 11100K .......... .......... .......... .......... .......... 41.9M
+ 11150K .......... .......... .......... .......... .......... 48.7M
+ 11200K .......... .......... .......... .......... .......... 47.9M
+ 11250K .......... .......... .......... .......... .......... 1.55M
+ 11300K .......... .......... .......... .......... .......... 31.0M
+ 11350K .......... .......... .......... .......... .......... 40.2M
+ 11400K .......... .......... .......... .......... .......... 57.1M
+ 11450K .......... .......... .......... .......... .......... 54.0M
+ 11500K .......... .......... .......... .......... .......... 2.07M
+ 11550K .......... .......... .......... .......... .......... 14.7M
+ 11600K .......... .......... .......... .......... .......... 15.8M
+ 11650K .......... .......... .......... .......... .......... 19.5M
+ 11700K .......... .......... .......... .......... .......... 26.8M
+ 11750K .......... .......... .......... .......... .......... 2.21M
+ 11800K .......... .......... .......... .......... .......... 18.6M
+ 11850K .......... .......... .......... .......... .......... 21.2M
+ 11900K .......... .......... .......... .......... .......... 39.5M
+ 11950K .......... .......... .......... .......... .......... 46.9M
+ 12000K .......... .......... .......... .......... .......... 1.84M
+ 12050K .......... .......... .......... .......... .......... 33.9M
+ 12100K .......... .......... .......... .......... .......... 37.1M
+ 12150K .......... .......... .......... .......... .......... 80.7M
+ 12200K .......... .......... .......... .......... .......... 30.4M
+ 12250K .......... .......... .......... .......... .......... 1.70M
+ 12300K .......... .......... .......... .......... .......... 17.7M
+ 12350K .......... .......... .......... .......... .......... 35.5M
+ 12400K .......... .......... .......... .......... .......... 40.0M
+ 12450K .......... .......... .......... .......... .......... 38.5M
+ 12500K .......... .......... .......... .......... .......... 2.10M
+ 12550K .......... .......... .......... .......... .......... 36.7M
+ 12600K .......... .......... .......... .......... .......... 42.3M
+ 12650K .......... .......... .......... .......... .......... 52.5M
+ 12700K .......... .......... .......... .......... .......... 41.4M
+ 12750K .......... .......... .......... .......... .......... 54.5M
+ 12800K .......... .......... .......... .......... .......... 1.59M
+ 12850K .......... .......... .......... .......... .......... 33.0M
+ 12900K .......... .......... .......... .......... .......... 38.4M
+ 12950K .......... .......... .......... .......... .......... 44.5M
+ 13000K .......... .......... .......... .......... .......... 32.9M
+ 13050K .......... .......... .......... .......... .......... 2.23M
+ 13100K .......... .......... .......... .......... .......... 30.2M
+ 13150K .......... .......... .......... .......... .......... 24.9M
+ 13200K .......... .......... .......... .......... .......... 53.7M
+ 13250K .......... .......... .......... .......... .......... 62.6M
+ 13300K .......... .......... .......... .......... .......... 1.99M
+ 13350K .......... .......... .......... .......... .......... 42.9M
+ 13400K .......... .......... .......... .......... .......... 51.5M
+ 13450K .......... .......... .......... .......... .......... 41.2M
+ 13500K .......... .......... .......... .......... .......... 54.5M
+ 13550K .......... .......... .......... .......... .......... 1.54M
+ 13600K .......... .......... .......... .......... .......... 54.1M
+ 13650K .......... .......... .......... .......... .......... 56.8M
+ 13700K .......... .......... .......... .......... .......... 51.8M
+ 13750K .......... .......... .......... .......... .......... 57.5M
+ 13800K .......... .......... .......... .......... .......... 2.44M
+ 13850K .......... .......... .......... .......... .......... 42.1M
+ 13900K .......... .......... .......... .......... .......... 35.2M
+ 13950K .......... .......... .......... .......... .......... 53.5M
+ 14000K .......... .......... .......... .......... .......... 47.2M
+ 14050K .......... .......... .......... .......... ..........  379K
+ 14100K .......... .......... .......... .......... .......... 46.3M
+ 14150K .......... .......... .......... .......... .......... 40.0M
+ 14200K .......... .......... .......... .......... .......... 50.5M
+ 14250K .......... .......... .......... .......... .......... 54.7M
+ 14300K .......... .......... .......... .......... .......... 2.05M
+ 14350K .......... .......... .......... .......... .......... 18.8M
+ 14400K .......... .......... .......... .......... .......... 35.4M
+ 14450K .......... .......... .......... .......... .......... 42.7M
+ 14500K .......... .......... .......... .......... .......... 52.1M
+ 14550K .......... .......... .......... .......... .......... 13.6M
+ 14600K .......... .......... .......... .......... .......... 22.7M
+ 14650K .......... .......... .......... .......... .......... 50.1M
+ 14700K .......... .......... .......... .......... .......... 39.5M
+ 14750K .......... .......... .......... .......... .......... 50.8M
+ 14800K .......... .......... .......... .......... .......... 13.1M
+ 14850K .......... .......... .......... .......... .......... 33.6M
+ 14900K .......... .......... .......... .......... .......... 36.0M
+ 14950K .......... .......... .......... .......... .......... 49.6M
+ 15000K .......... .......... .......... .......... .......... 44.1M
+ 15050K .......... .......... .......... .......... .......... 55.8M
+ 15100K .......... .......... .......... .......... .......... 26.1M
+ 15150K .......... .......... .......... .......... .......... 23.9M
+ 15200K .......... .......... .......... .......... .......... 55.5M
+ 15250K .......... .......... .......... .......... .......... 53.5M
+ 15300K .......... .......... .......... .......... .......... 57.9M
+ 15350K .......... .......... .......... .......... .......... 7.82M
+ 15400K .......... .......... .......... .......... .......... 45.4M
+ 15450K .......... .......... .......... .......... .......... 49.6M
+ 15500K .......... .......... .......... .......... .......... 47.5M
+ 15550K .......... .......... .......... .......... .......... 55.8M
+ 15600K .......... .......... .......... .......... .......... 35.9M
+ 15650K .......... .......... .......... .......... .......... 20.6M
+ 15700K .......... .......... .......... .......... .......... 34.1M
+ 15750K .......... .......... .......... .......... .......... 46.9M
+ 15800K .......... .......... .......... .......... .......... 52.3M
+ 15850K .......... .......... .......... .......... .......... 19.2M
+ 15900K .......... .......... .......... .......... .......... 45.5M
+ 15950K .......... .......... .......... .......... .......... 51.2M
+ 16000K .......... .......... .......... .......... .......... 41.8M
+ 16050K .......... .......... .......... .......... .......... 55.4M
+ 16100K .......... .......... .......... .......... .......... 3.19M
+ 16150K .......... .......... .......... .......... .......... 50.1M
+ 16200K .......... .......... .......... .......... .......... 42.1M
+ 16250K .......... .......... .......... .......... .......... 49.0M
+ 16300K .......... .......... .......... .......... .......... 52.2M
+ 16350K .......... .......... .......... .......... .......... 2.12M
+ 16400K .......... .......... .......... .......... .......... 42.5M
+ 16450K .......... .......... .......... .......... .......... 53.3M
+ 16500K .......... .......... .......... .......... .......... 49.9M
+ 16550K .......... .......... .......... .......... .......... 45.2M
+ 16600K .......... .......... .......... .......... .......... 2.01M
+ 16650K .......... .......... .......... .......... .......... 34.4M
+ 16700K .......... .......... .......... .......... .......... 53.9M
+ 16750K .......... .......... .......... .......... .......... 65.0M
+ 16800K .......... .......... .......... .......... .......... 53.7M
+ 16850K .......... .........                                    394K=2.1s
+
+2026-05-22 20:33:15 (7.72 MB/s) - ‘/mnt/lfs/sources/systemd-259.1.tar.gz’ saved [17274033]
+
+--2026-05-22 20:33:15--  https://anduin.linuxfromscratch.org/LFS/systemd-man-pages-259.1.tar.xz
+Connecting to anduin.linuxfromscratch.org (anduin.linuxfromscratch.org)|104.200.30.157|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:15--  https://github.com/slicer69/sysvinit/releases/download/3.14/sysvinit-3.14.tar.xz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/457063710/41bdb838-4caf-467f-b86a-71694cc509a2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A17Z&rscd=attachment%3B+filename%3Dsysvinit-3.14.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A08Z&ske=2026-05-22T21%3A32%3A17Z&sks=b&skv=2018-11-09&sig=rPQR2dOG3Epmbx%2FQ5EVVQTJrztkICHFMVzYrhW1qoAU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5NiwibmJmIjoxNzc5NDgxOTk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mDxVK3WgKcaXFMh6JDXNUKl1oc8a1WBaqbKvMiWxMdw&response-content-disposition=attachment%3B%20filename%3Dsysvinit-3.14.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:16--  https://release-assets.githubusercontent.com/github-production-release-asset/457063710/41bdb838-4caf-467f-b86a-71694cc509a2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A32%3A17Z&rscd=attachment%3B+filename%3Dsysvinit-3.14.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A32%3A08Z&ske=2026-05-22T21%3A32%3A17Z&sks=b&skv=2018-11-09&sig=rPQR2dOG3Epmbx%2FQ5EVVQTJrztkICHFMVzYrhW1qoAU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjI5NiwibmJmIjoxNzc5NDgxOTk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mDxVK3WgKcaXFMh6JDXNUKl1oc8a1WBaqbKvMiWxMdw&response-content-disposition=attachment%3B%20filename%3Dsysvinit-3.14.tar.xz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:16--  https://ftpmirror.gnu.org/tar/tar-1.35.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirrors.ibiblio.org/gnu/tar/tar-1.35.tar.xz [following]
+--2026-05-22 20:33:16--  https://mirrors.ibiblio.org/gnu/tar/tar-1.35.tar.xz
+Connecting to mirrors.ibiblio.org (mirrors.ibiblio.org)|152.19.134.44|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:17--  https://downloads.sourceforge.net/tcl/tcl8.6.17-src.tar.gz
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|2606:4700::6812:d95|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://downloads.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-src.tar.gz [following]
+--2026-05-22 20:33:17--  https://downloads.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-src.tar.gz
+Reusing existing connection to [downloads.sourceforge.net]:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cytranet-dal.dl.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-src.tar.gz?viasf=1&fid=5d90463e88ca9eed [following]
+--2026-05-22 20:33:17--  https://cytranet-dal.dl.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-src.tar.gz?viasf=1&fid=5d90463e88ca9eed
+Connecting to cytranet-dal.dl.sourceforge.net (cytranet-dal.dl.sourceforge.net)|162.226.127.129|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:23--  https://downloads.sourceforge.net/tcl/tcl8.6.17-html.tar.gz
+Reusing existing connection to [downloads.sourceforge.net]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://downloads.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-html.tar.gz [following]
+--2026-05-22 20:33:23--  https://downloads.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-html.tar.gz
+Reusing existing connection to [downloads.sourceforge.net]:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cytranet-dal.dl.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-html.tar.gz?viasf=1&fid=e8e029181da861bd [following]
+--2026-05-22 20:33:23--  https://cytranet-dal.dl.sourceforge.net/project/tcl/Tcl/8.6.17/tcl8.6.17-html.tar.gz?viasf=1&fid=e8e029181da861bd
+Connecting to cytranet-dal.dl.sourceforge.net (cytranet-dal.dl.sourceforge.net)|162.226.127.129|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:42--  https://ftpmirror.gnu.org/texinfo/texinfo-7.2.tar.xz
+Connecting to ftpmirror.gnu.org (ftpmirror.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://ftp.wayne.edu/gnu/texinfo/texinfo-7.2.tar.xz [following]
+--2026-05-22 20:33:43--  https://ftp.wayne.edu/gnu/texinfo/texinfo-7.2.tar.xz
+Connecting to ftp.wayne.edu (ftp.wayne.edu)|141.217.0.199|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:43--  https://www.iana.org/time-zones/repository/releases/tzdata2025c.tar.gz
+Resolving www.iana.org (www.iana.org)... 2620:0:2d0:200::b:8, 192.0.33.8
+Connecting to www.iana.org (www.iana.org)|2620:0:2d0:200::b:8|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://data.iana.org/time-zones/releases/tzdata2025c.tar.gz [following]
+--2026-05-22 20:33:43--  https://data.iana.org/time-zones/releases/tzdata2025c.tar.gz
+Resolving data.iana.org (data.iana.org)... 2606:4700::6812:19e8, 2606:4700::6812:18e8, 104.18.24.232, ...
+Connecting to data.iana.org (data.iana.org)|2606:4700::6812:19e8|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:44--  https://anduin.linuxfromscratch.org/LFS/udev-lfs-20230818.tar.xz
+Connecting to anduin.linuxfromscratch.org (anduin.linuxfromscratch.org)|104.200.30.157|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:44--  https://www.kernel.org/pub/linux/utils/util-linux/v2.41/util-linux-2.41.3.tar.xz
+Connecting to www.kernel.org (www.kernel.org)|2a04:4e42:f000::311|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:44--  https://github.com/vim/vim/archive/v9.2.0078/vim-9.2.0078.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/vim/vim/tar.gz/refs/tags/v9.2.0078 [following]
+--2026-05-22 20:33:45--  https://codeload.github.com/vim/vim/tar.gz/refs/tags/v9.2.0078
+Connecting to codeload.github.com (codeload.github.com)|140.82.116.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:45--  https://pypi.org/packages/source/w/wheel/wheel-0.46.3.tar.gz
+Connecting to pypi.org (pypi.org)|2a04:4e42:600::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://files.pythonhosted.org/packages/source/w/wheel/wheel-0.46.3.tar.gz [following]
+--2026-05-22 20:33:46--  https://files.pythonhosted.org/packages/source/w/wheel/wheel-0.46.3.tar.gz
+Connecting to files.pythonhosted.org (files.pythonhosted.org)|2a04:4e42:f000::223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://files.pythonhosted.org/packages/89/24/a2eb353a6edac9a0303977c4cb048134959dd2a51b48a269dfc9dde00c8a/wheel-0.46.3.tar.gz [following]
+--2026-05-22 20:33:46--  https://files.pythonhosted.org/packages/89/24/a2eb353a6edac9a0303977c4cb048134959dd2a51b48a269dfc9dde00c8a/wheel-0.46.3.tar.gz
+Reusing existing connection to [files.pythonhosted.org]:443.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:46--  https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.47.tar.gz
+Resolving cpan.metacpan.org (cpan.metacpan.org)... 2a04:4e42:400::729, 2a04:4e42::729, 2a04:4e42:200::729, ...
+Connecting to cpan.metacpan.org (cpan.metacpan.org)|2a04:4e42:400::729|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:46--  https://github.com//tukaani-project/xz/releases/download/v5.8.2/xz-5.8.2.tar.xz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/553665726/96b286e6-9ca8-4612-84a3-c753a6b57c51?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A13%3A15Z&rscd=attachment%3B+filename%3Dxz-5.8.2.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A13%3A01Z&ske=2026-05-22T21%3A13%3A15Z&sks=b&skv=2018-11-09&sig=n0zMM2UDuxp8nv9UM3Mmw5%2F9qyv8yErRRIG%2FJJ5DLnY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjMyNiwibmJmIjoxNzc5NDgyMDI2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.RUnUpiXI1B9AhScIQ_MrDnJ9zVVW5y79KniuxqUMGbk&response-content-disposition=attachment%3B%20filename%3Dxz-5.8.2.tar.xz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:46--  https://release-assets.githubusercontent.com/github-production-release-asset/553665726/96b286e6-9ca8-4612-84a3-c753a6b57c51?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A13%3A15Z&rscd=attachment%3B+filename%3Dxz-5.8.2.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A13%3A01Z&ske=2026-05-22T21%3A13%3A15Z&sks=b&skv=2018-11-09&sig=n0zMM2UDuxp8nv9UM3Mmw5%2F9qyv8yErRRIG%2FJJ5DLnY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjMyNiwibmJmIjoxNzc5NDgyMDI2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.RUnUpiXI1B9AhScIQ_MrDnJ9zVVW5y79KniuxqUMGbk&response-content-disposition=attachment%3B%20filename%3Dxz-5.8.2.tar.xz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:46--  https://zlib.net/fossils/zlib-1.3.2.tar.gz
+Resolving zlib.net (zlib.net)... 85.187.148.2
+Connecting to zlib.net (zlib.net)|85.187.148.2|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://github.com/facebook/zstd/releases/download/v1.5.7/zstd-1.5.7.tar.gz
+Connecting to github.com (github.com)|140.82.116.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://release-assets.githubusercontent.com/github-production-release-asset/29759715/99c899ba-527a-4d01-94e1-4b246cc9b551?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A16%3A06Z&rscd=attachment%3B+filename%3Dzstd-1.5.7.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A15%3A48Z&ske=2026-05-22T21%3A16%3A06Z&sks=b&skv=2018-11-09&sig=tG0fASoNaDHLnBz6e9y6oqiaDEkhOpCNAmmfU0AtmDI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjMwNiwibmJmIjoxNzc5NDgyMDA2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jrp-YKYYgPtc7zQXp6HDOtX8tzxUKEaY4sshnkgQXfM&response-content-disposition=attachment%3B%20filename%3Dzstd-1.5.7.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2026-05-22 20:33:47--  https://release-assets.githubusercontent.com/github-production-release-asset/29759715/99c899ba-527a-4d01-94e1-4b246cc9b551?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-22T21%3A16%3A06Z&rscd=attachment%3B+filename%3Dzstd-1.5.7.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-22T20%3A15%3A48Z&ske=2026-05-22T21%3A16%3A06Z&sks=b&skv=2018-11-09&sig=tG0fASoNaDHLnBz6e9y6oqiaDEkhOpCNAmmfU0AtmDI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTQ4MjMwNiwibmJmIjoxNzc5NDgyMDA2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jrp-YKYYgPtc7zQXp6HDOtX8tzxUKEaY4sshnkgQXfM&response-content-disposition=attachment%3B%20filename%3Dzstd-1.5.7.tar.gz&response-content-type=application%2Foctet-stream
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 416 Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/bzip2-1.0.8-install_docs-1.patch
+Connecting to www.linuxfromscratch.org (www.linuxfromscratch.org)|208.118.68.85|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/coreutils-9.10-i18n-1.patch
+Reusing existing connection to www.linuxfromscratch.org:443.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/expect-5.45.4-gcc15-1.patch
+Reusing existing connection to www.linuxfromscratch.org:443.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/glibc-fhs-1.patch
+Reusing existing connection to www.linuxfromscratch.org:443.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/kbd-2.9.0-backspace-1.patch
+Reusing existing connection to www.linuxfromscratch.org:443.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-05-22 20:33:47--  https://www.linuxfromscratch.org/patches/lfs/13.0/sysvinit-3.14-consolidated-1.patch
+Reusing existing connection to www.linuxfromscratch.org:443.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+FINISHED --2026-05-22 20:33:48--
+Total wall clock time: 4m 45s
+Downloaded: 1 files, 16M in 2.1s (7.72 MB/s)
