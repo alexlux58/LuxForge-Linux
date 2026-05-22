@@ -22,11 +22,11 @@ This phase covers standing up the host VM, installing all LFS build dependencies
 
 ## Steps completed
 
-1. [Clone the repo and create directory structure](#1-clone-the-repo-and-create-directory-structure)
-2. [Install LFS host build dependencies](#2-install-lfs-host-build-dependencies)
-3. [Prepare the dedicated LFS disk](#3-prepare-the-dedicated-lfs-disk)
-4. [Run host readiness checks](#4-run-host-readiness-checks)
-5. [Verification](#verification)
+1) [Clone the repo and create directory structure](#1-clone-the-repo-and-create-directory-structure)
+2) [Install LFS host build dependencies](#2-install-lfs-host-build-dependencies)
+3) [Prepare the dedicated LFS disk](#3-prepare-the-dedicated-lfs-disk)
+4) [Run host readiness checks](#4-run-host-readiness-checks)
+5) [Verification](#verification)
 
 ---
 
