@@ -25,7 +25,8 @@ This phase covers standing up the host VM, installing all LFS build dependencies
 1. [Clone the repo and create directory structure](#1-clone-the-repo-and-create-directory-structure)
 2. [Install LFS host build dependencies](#2-install-lfs-host-build-dependencies)
 3. [Prepare the dedicated LFS disk](#3-prepare-the-dedicated-lfs-disk)
-4. [Verification](#verification)
+4. [Run host readiness checks](#4-run-host-readiness-checks)
+5. [Verification](#verification)
 
 ---
 
@@ -214,6 +215,36 @@ LABEL=LFSROOT   /mnt/lfs   ext4   defaults   0   1
 
 ---
 
+## 4) Run host readiness checks
+
+A reusable host validation script is now tracked in this repo:
+
+- Script: `scripts/host-check.sh`
+- Purpose: quickly verify command availability, shell/link assumptions, PTY support, compiler sanity, and CPU count before entering LFS Chapter 5+
+
+Run it with:
+
+```bash
+chmod +x ./scripts/host-check.sh
+./scripts/host-check.sh
+```
+
+Recorded result summary:
+
+- all required base commands reported `[OK]`
+- kernel: `6.8.0-110-generic`
+- shell/link sanity: `/bin/sh -> /usr/bin/dash`, `awk -> /usr/bin/gawk`, `yacc -> /usr/bin/bison.yacc`
+- PTY support check passed
+- compiler sanity (`g++` test compile) passed
+- CPU cores: `4`
+
+Exit code behavior:
+
+- `0` = all checks passed
+- `1` = at least one check failed
+
+---
+
 ## Verification
 
 ```bash
@@ -259,6 +290,10 @@ echo 'LABEL=LFSROOT /mnt/lfs ext4 defaults 0 1' | sudo tee -a /etc/fstab
 findmnt /mnt/lfs
 lsblk -f
 df -h
+
+# Host readiness check
+chmod +x ./scripts/host-check.sh
+./scripts/host-check.sh
 ```
 
 ---
@@ -270,6 +305,7 @@ df -h
 3. **A dedicated LFS target makes everything safer.** Isolation lowers risk and simplifies recovery.
 4. **Thin-provisioned virtual disks are useful, but host storage still matters.** The hypervisor still needs real free space as the guest writes data.
 5. **Install `bison` and `texinfo` explicitly.** Ubuntu does not always include them by default and both are required by LFS packages.
+6. **Use a repeatable host check script.** Tracking `scripts/host-check.sh` makes readiness checks consistent before starting toolchain-heavy chapters.
 
 ---
 
