@@ -383,7 +383,7 @@ Meaning:
 
 ### Note on the last field
 
-For a non-root ext4 data filesystem, many admins would use:
+Alternative (common host-side convention) for a non-root ext4 data filesystem:
 
 ```fstab
 LABEL=LFSROOT /mnt/lfs ext4 defaults 0 2
