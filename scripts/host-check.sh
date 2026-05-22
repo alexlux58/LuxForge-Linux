@@ -57,7 +57,7 @@ fi
 
 echo
 echo "== Compiler sanity =="
-tmp_bin="$(mktemp -t lfs-compiler-check.XXXXXX)"
+tmp_bin="$(mktemp "${TMPDIR:-/tmp}/lfs-compiler-check.XXXXXX")"
 trap 'rm -f "$tmp_bin"' EXIT
 printf 'int main(){return 0;}\n' | g++ -x c++ - -o "$tmp_bin" >/dev/null 2>&1 \
   && echo "[OK]   g++ compile works" \
